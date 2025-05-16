@@ -12,7 +12,7 @@ A Laravel package that provides a simple and consistent way to send SMS messages
 You can install the package via composer:
 
 ```bash
-composer require your-vendor-name/laravel-sms
+composer require rupeshdahal/nepali-sms-gateway
 ```
 
 ## Publish Configuration
