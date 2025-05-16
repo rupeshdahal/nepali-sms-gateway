@@ -1,23 +1,23 @@
 {
-    "name": "your-vendor-name/laravel-sms",
+    "name": "rupeshdahal/nepali-sms-gateway",
     "description": "Laravel SMS package supporting multiple SMS gateways (SparrowSMS, AkashSMS, FastSMS)",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your.email@example.com"
+            "name": "Rupesh Dahal",
+            "email": "rupeshdahal15@gmail.com"
         }
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/support": "^8.0|^9.0|^10.0",
+        "illuminate/support": "^8.0|^9.0|^10.0|^11.0",
         "illuminate/http": "^8.0|^9.0|^10.0",
         "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^6.0|^7.0|^8.0",
-        "phpunit/phpunit": "^9.0|^10.0"
+        "orchestra/testbench": "^6.0|^7.0|^8.0|^9.0",
+        "phpunit/phpunit": "^9.0|^10.0|^11.0"
     },
     "autoload": {
         "psr-4": {
